@@ -25,11 +25,11 @@ Research Questions to Answer
 
 1. What are the areas with the greatest levels of disparity?
 2. What areas have the greatest equality?
-3. Do education levels differ between University adjacent and non-adjacent areas?
+3. Do education levels differ between zip codes containing these Universities and the randomly selected zip codes?
 
 Hypothesis
 
-We hypothesize that the areas adjacent to universities will have higher levels of income disparity than those that are non-adjacent.
+We hypothesize that the zip codes containing universities will have higher levels of income disparity than those that are randomly selected.
 
 
 Datasets to be Used
@@ -44,8 +44,8 @@ https://developers.google.com/maps
 Rough Breakdown of tasks
 
 Import APIs
-Gather info on college adjacent zip codes
-Randomly select non college adjacent zip codes
+Gather info on college zip codes
+Randomly select non college zip codes
 Get national poverty level data
 Compare rates of poverty vs high income in each area
 Plot inequality levels

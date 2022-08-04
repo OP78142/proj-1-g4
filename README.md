@@ -27,6 +27,10 @@ Research Questions to Answer
 2. What areas have the greatest equality?
 3. Do education levels differ between University adjacent and non-adjacent areas?
 
+Hypothesis
+
+We hypothesize that the areas adjacent to universities will have higher levels of income disparity than those that are non-adjacent.
+
 
 Datasets to be Used
 

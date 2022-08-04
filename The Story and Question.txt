@@ -1,0 +1,8 @@
+1: Which race is richest for each state?
+2: Which race is poorest for each state?
+3: Education level at poverty level
+4: Education at richest level
+5: If there's more educated people in one state, then are there still poorer people?
+6: Worst wealth disparity, like college deans and broke college students.
+
+Story: What makes people rich, what makes them poor? Is it location, race, age, education and or dumb luck?
